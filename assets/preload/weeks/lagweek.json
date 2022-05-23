@@ -1,0 +1,31 @@
+{
+	"storyName": "tren con lag",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		153,
+		153,
+		153
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"lagtrain",
+			"lag",
+			[
+				153,
+				153,
+				153
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "trenconlag"
+}
