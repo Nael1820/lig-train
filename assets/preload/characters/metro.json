@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-250,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "METRO0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/METRO",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "lag",
+	"flip_x": true,
+	"healthbar_colors": [
+		153,
+		153,
+		153
+	],
+	"camera_position": [
+		-100,
+		-190
+	],
+	"sing_duration": 0,
+	"scale": 1
+}
