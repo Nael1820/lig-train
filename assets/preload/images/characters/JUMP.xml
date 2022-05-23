@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="JUMP.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="JUMPIN0000" x="0" y="0" width="994" height="1002"/>
+	<SubTexture name="JUMPIN0001" x="0" y="0" width="994" height="1002"/>
+	<SubTexture name="JUMPIN0002" x="994" y="0" width="994" height="1002"/>
+	<SubTexture name="JUMPIN0003" x="1988" y="0" width="994" height="1002"/>
+	<SubTexture name="JUMPIN0004" x="2982" y="0" width="994" height="1002"/>
+	<SubTexture name="JUMPIN0005" x="2982" y="0" width="994" height="1002"/>
+	<SubTexture name="JUMPIN0006" x="0" y="1002" width="994" height="1002"/>
+	<SubTexture name="JUMPIN0007" x="994" y="1002" width="994" height="1002"/>
+	<SubTexture name="JUMPIN0008" x="994" y="1002" width="994" height="1002"/>
+	<SubTexture name="JUMPIN0009" x="0" y="0" width="994" height="1002"/>
+	<SubTexture name="JUMPIN0010" x="0" y="0" width="994" height="1002"/>
+	<SubTexture name="JUMPIN0011" x="994" y="0" width="994" height="1002"/>
+	<SubTexture name="JUMPIN0012" x="1988" y="0" width="994" height="1002"/>
+	<SubTexture name="JUMPIN0013" x="2982" y="0" width="994" height="1002"/>
+	<SubTexture name="JUMPIN0014" x="2982" y="0" width="994" height="1002"/>
+	<SubTexture name="JUMPIN0015" x="0" y="1002" width="994" height="1002"/>
+	<SubTexture name="JUMPIN0016" x="994" y="1002" width="994" height="1002"/>
+	<SubTexture name="JUMPIN0017" x="994" y="1002" width="994" height="1002"/>
+</TextureAtlas>

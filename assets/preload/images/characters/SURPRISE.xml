@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SURPRISE.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SURPRISE0000" x="0" y="0" width="559" height="620"/>
+	<SubTexture name="SURPRISE0001" x="0" y="0" width="559" height="620"/>
+	<SubTexture name="SURPRISE0002" x="559" y="0" width="559" height="620"/>
+	<SubTexture name="SURPRISE0003" x="559" y="0" width="559" height="620"/>
+	<SubTexture name="SURPRISE0004" x="1118" y="0" width="559" height="620"/>
+	<SubTexture name="SURPRISE0005" x="0" y="620" width="559" height="620"/>
+	<SubTexture name="SURPRISE0006" x="0" y="620" width="559" height="620"/>
+	<SubTexture name="SURPRISE0007" x="559" y="620" width="559" height="620"/>
+	<SubTexture name="SURPRISE0008" x="559" y="620" width="559" height="620"/>
+	<SubTexture name="SURPRISE0009" x="1118" y="620" width="559" height="620"/>
+	<SubTexture name="SURPRISE0010" x="1118" y="620" width="559" height="620"/>
+	<SubTexture name="SURPRISE0011" x="1118" y="620" width="559" height="620"/>
+	<SubTexture name="SURPRISE0012" x="1118" y="620" width="559" height="620"/>
+	<SubTexture name="SURPRISE0013" x="1118" y="620" width="559" height="620"/>
+	<SubTexture name="SURPRISE0014" x="1118" y="620" width="559" height="620"/>
+	<SubTexture name="SURPRISE0015" x="1118" y="620" width="559" height="620"/>
+	<SubTexture name="SURPRISE0016" x="1118" y="620" width="559" height="620"/>
+</TextureAtlas>
